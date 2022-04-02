@@ -1,0 +1,7 @@
+xyz.abc(files which is to be ignored)
+
+or write 
+.abc (it will ignore all the files which are having extensions .abc
+
+if its a folder :
+write nameofthefolder /
